@@ -1,4 +1,8 @@
-JNET is my own ML library built from scratch. NP is the only dependency (TBR)
+JNET is my own ML library built from scratch.
+
+### Dependencies
+1. Numpy
+2. Typing
 
 ### Features
 1. Steepest gradient descent optimization
